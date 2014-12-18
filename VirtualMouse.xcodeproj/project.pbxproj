@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5B55B2481A42C32C009E89D9 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 5B55B2471A42C32C009E89D9 /* main.c */; };
+		5BCF19B81A42ED45008CA8FC /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5BCF19B71A42ED45008CA8FC /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		5B55B2441A42C32C009E89D9 /* VirtualMouse */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = VirtualMouse; sourceTree = BUILT_PRODUCTS_DIR; };
 		5B55B2471A42C32C009E89D9 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		5BCF19B71A42ED45008CA8FC /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,7 @@
 		5B55B23B1A42C32C009E89D9 = {
 			isa = PBXGroup;
 			children = (
+				5BCF19B71A42ED45008CA8FC /* README.md */,
 				5B55B2461A42C32C009E89D9 /* VirtualMouse */,
 				5B55B2451A42C32C009E89D9 /* Products */,
 			);
@@ -118,6 +121,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BCF19B81A42ED45008CA8FC /* README.md in Sources */,
 				5B55B2481A42C32C009E89D9 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -232,6 +236,7 @@
 				5B55B24D1A42C32C009E89D9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
