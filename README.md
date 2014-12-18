@@ -1,13 +1,13 @@
 VirtualMouse
-================
+============
 
 A tiny program to take over your mouse and move over every pixel in a given rectangle.
 Made for my co-workers who are trying to make a big matrix using JavaScript to connect the pixels of a given webcam picture to geocoordinates.
-So far, there's no boundary checking and no way to get out of the running program. :-)
+Beware! So far, there's no boundary checking and no way to get out of the running program. :-)
 
 
-Environments in which to run Ranglistenpunkte
----------------------------------------------
+Environments in which to run VirtualMouse
+-----------------------------------------
 
 VirtualMouse runs on a Mac with Mac OS X. 
 
